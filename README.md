@@ -1,46 +1,26 @@
-# PROJECT NAME
+# PROJECT 1 : Super Security Solutions
 
 ## Project Description
 
-Here goes your awesome project description!
+This project revolves around the creation of a unique organization within the Salesforce Platform. In this case, I chose to create a business that maintained and rented out a roster of uniquely skilled individuals for protection and security. 
 
 ## Technologies Used
 
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* SalesForce Platform
+* Declarative Tools
+* 
 
 ## Features
 
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Security at the Organization, Object, Record, and Field levels.
+* Assignment and Escalation Rules as well as Approval Processes
+* Implementation of web-to-lead, and web-to-case as well as email-to-lead and email-to-case.
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
-
-## Getting Started
-   
-(include git clone command)
-(include all environment setup steps)
-
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-
-- All the `code` required to get started
-- Images of what it should look like
+* Experience Cloud Website for customers!
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
-
-## Contributors
-
-> Here list the people who have contributed to this project. (ignore this section, if its a solo project)
-
-## License
-
-This project uses the following license: [<license_name>](<link>).
+The main thrust of this project was the implementation of these features through declarative administrative tools. As such, it contains very little coding.
 
