@@ -6,9 +6,9 @@ This project revolves around the creation of a unique organization within the Sa
 
 ## Technologies Used
 
-* SalesForce Platform
-* Declarative Tools
-* 
+* Declarative Tools of the SalesForce Platform
+* Sales Cloud, Service Cloud
+* Lightning App Builder, Flow Builder
 
 ## Features
 
